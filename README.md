@@ -84,7 +84,7 @@ python main.py
 
 ---
 
- **"Stay Safe, Stay Dangerous"**
+ **"Stay Safe, Stay Dangerous---Asura Lord"**
 
 ---
 
@@ -96,9 +96,9 @@ Steganography-Tool/
 ├── requirements.txt
 ├── README.md
 ├── output/
-│   ├── encrypted_images/
-│   └── encrypted_keys/
-├── screenshots/
+    ├── encrypted_images/
+    └── encrypted_keys/
+
 ```
 
 ---
@@ -106,4 +106,5 @@ Steganography-Tool/
 ## ⚠️ License
 
 This project is licensed under the **MIT License**.
+
 
